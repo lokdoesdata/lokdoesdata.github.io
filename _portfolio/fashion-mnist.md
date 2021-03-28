@@ -314,7 +314,7 @@ Precision (weighted): {round(precision_score(y_test, y_pred_lgb, average='weight
 Recall (weighted): {round(recall_score(y_test, y_pred_lgb, average='weighted'),3)}""")
 ```
 
-| LightGBM Performance | Train       | Train       |
+| LightGBM Performance | Train       | Test        |
 | :------------------- | :---------: | :---------: |
 | Accuracy             | 95.8%       | 88.9%       |
 | Precision (Weighted) | 95.8%       | 88.9%       |
@@ -473,7 +473,7 @@ Precision (weighted): {round(precision_score(y_test, y_pred_keras, average='weig
 Recall (weighted): {round(recall_score(y_test, y_pred_keras, average='weighted'),3)}""")
 ```
 
-| Keras ConvNet Performance | Train       | Train       |
+| Keras ConvNet Performance | Train       | Test        |
 | :------------------------ | :---------: | :---------: |
 | Accuracy                  | 89.9%       | 88.8%       |
 | Precision (Weighted)      | 89.9%       | 88.7%       |
