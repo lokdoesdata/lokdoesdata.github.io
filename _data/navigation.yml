@@ -1,0 +1,8 @@
+# main links
+main:
+  - title: "Archive"
+    url: /year-archive/
+  - title: "Portfolio"
+    url: /portfolio/
+  - title: "Resume"
+    url: /resume/
