@@ -253,7 +253,7 @@ From the tSNE figure above, it appears that trousers and bags can be easily diff
 
 ## Models
 
-Two classification models were created to classify the Fashion MNIST images. They are LightGBM by Microsoft and ConvNet by Keras (TensorFlow). 
+Two classification models were created to classify the Fashion MNIST images. They are LightGBM by Microsoft and ConvNet by Keras (TensorFlow).
 
 Both models were trained with a conventional train-test split.
 
@@ -334,7 +334,7 @@ ax.text(x=0.5, y=1.05, s='LightGBM - Confusion Matrix', fontsize=20, weight='bol
 
 {% include figure image_path="/assets/images/portfolio/fashion-mnist/fashion-mnist-lgb-confmat.png" alt="lgb's confmat" %}
 
-The confusion matrix shows that the model was capable to predict most of the fashion categories. It struggles with “shirt”, as it was suggested by the tSNE analysis. Shirt and T-shirt, in particular, has the highest misclassification rate between each other. 
+The confusion matrix shows that the model was capable to predict most of the fashion categories. It struggles with “shirt”, as it was suggested by the tSNE analysis. Shirt and T-shirt, in particular, has the highest misclassification rate between each other.
 
 ##### ROC
 
@@ -394,15 +394,15 @@ The LightGBM model’s ROC curve for each of the ten categories in the Fashion M
 
 ### Keras ConvNet
 
-A 7 layers sequential ConvNet was created: 
+A 7 layers sequential ConvNet was created:
 
-1.	Convolutional Layer with 32 filters and a (3,3) filter size.  This layer uses the rectified linear activation function.
-2.	Max pooling layer
-3.	Convolutional Layer with 64 filters and a (3,3) filter size.  This layer uses the rectified linear activation function.
-4.	Max pooling layer
-5.	Flatten
-6.	Dropout with 50% probability
-7.	Dense layer with 10 nodes.  This layer uses the softmax activation function.  
+1. Convolutional Layer with 32 filters and a (3,3) filter size.  This layer uses the rectified linear activation function.
+2. Max pooling layer
+3. Convolutional Layer with 64 filters and a (3,3) filter size.  This layer uses the rectified linear activation function.
+4. Max pooling layer
+5. Flatten
+6. Dropout with 50% probability
+7. Dense layer with 10 nodes.  This layer uses the softmax activation function.  
 
 The ConvNet uses a stochastic gradient descent optimizer with a 0.01 learning rate and a momentum of 0.9 and trained with a multiclass logistic loss function (categorical cross-entropy). 10% of the training data was held back for validation to avoid data leakage. With a batch size of 128, and an epoch of 15, the model was trained in 53.8s.
 

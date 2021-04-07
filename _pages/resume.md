@@ -48,13 +48,13 @@ Insightful, data-driven, multilingual engineering professional with highly trans
 **Reliability Project Engineer**, *BucksMont Engineering and Design*, 2014 – 2016
 
 - Implemented a multi-million-dollar system improvement plan for PECO’s suburban area through data-driven analyses
-- Monitored into 40 concurrent projects and kept them on schedule and budget
+- Monitored up to 40 concurrent projects and kept them on schedule and budget
 - Streamlined the financial forecasting process and performed financial tracking for capital and maintenance projects
 - Met with customers to discuss PECO electrical projects and their impact to customer reliability
 
 ## Other Work Experiences
 
-- **Intern, PECO**, *Philadelphia, PA*, 2012 - 2013
+- **Intern, PECO**, *Philadelphia, PA*, 2012 - 2014
 - **Hess Honors Undergraduate Researcher, Drexel University**, *Philadelphia, PA*, 2012
 - **Intern/Contractor, PJM**, *Norristown, PA*, 2011 - 2012
 - **Math Tutor, Drexel University**, *Philadelphia, PA*, 2011

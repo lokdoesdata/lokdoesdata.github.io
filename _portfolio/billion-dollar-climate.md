@@ -91,7 +91,7 @@ They were all exported as PDF, enhanced and combined in Adobe Illustrator.
 
 Below contains the R script that were used to generate the visuals used in this poster.  Please note that this script uses the `fiftystater` package by [Will Murphy](https://github.com/wmurphyrd) and requires [RTools](https://cran.r-project.org/bin/windows/Rtools/) to compile the package.
 
-The R Markdown file can be obtained from Github [here](https://github.com/lokdoesdata/billion-dollar-climate)
+The R Markdown file can be obtained from Github [here](https://github.com/lokdoesdata/billion-dollar-climate).
 
 ### Set Up
 
