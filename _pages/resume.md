@@ -61,5 +61,5 @@ Insightful, data-driven, multilingual engineering professional with highly trans
 
 ## Educational Background
 
-**Master of Science**, Applied Data Science, **Syracuse University**, New York, NY, 2021  
+**Master of Science**, Applied Data Science, **Syracuse University**, Syracuse, NY, 2021  
 **Bachelor of Science**, Mechanical Engineering, **Drexel University**, Philadelphia, PA, 2014
