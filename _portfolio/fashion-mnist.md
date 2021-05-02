@@ -33,7 +33,7 @@ Image classification is the task of categorizing images into different classes. 
 
 In practice, the biggest challenge in image classification is the collection of labeled data. However, in this exercise, the popular Fashion MNIST dataset was used to showcase different techniques that can be used for image classification.
 
-This was originally done as part of a course assignment for Big Data Analytics (IST 718) at Syracuse University.
+This exercise was originally done as part of a course assignment for Big Data Analytics (IST 718) at Syracuse University.
 
 ## Fashion MNIST Dataset
 
