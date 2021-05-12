@@ -29,7 +29,7 @@ Insightful, data-driven, multilingual engineering professional with highly trans
 
 ### **PECO, an Exelon Company**, Philadelphia, PA
 
-**Reliability Engineer/Analyst**, *Reliability Reporting and Data Analytics*, 2019 – Present
+**Quantitative Reliability Engineer/Analyst**, *Reliability Reporting and Data Analytics*, 2019 – Present
 
 - Recognized as the subject matter expert in data analytics; specialized in providing solutions and recommendations for ad-hoc analytical requests from across the PECO engineering organization
 - Develop new and innovative ways to explore and analyze PECO’s system performance such as network vulnerability and criticality analyses
